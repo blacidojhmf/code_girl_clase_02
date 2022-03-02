@@ -1,0 +1,67 @@
+{
+    "page": "productos",
+    "data": [{
+        "tipo_categoria": "Capuchino",
+        "productos": [{
+            "titulo": "capuchino 01",
+            "descripcion": "sin azucar",
+            "imagen": "assets/cafe1.jpg",
+            "precio": 5.12,
+            "estrellas": 4.7
+        }, {
+            "titulo": "capuchino 02",
+            "descripcion": "sin azucar",
+            "imagen": "assets/cafe2.jpg",
+            "precio": 6.12,
+            "estrellas": 5.7
+        }, {
+            "titulo": "capuchino 03",
+            "descripcion": "sin azucar",
+            "imagen": "assets/cafe3.jpg",
+            "precio": 4.12,
+            "estrellas": 3.7
+        }]
+    }, {
+        "tipo_categoria": "Bebidas",
+        "productos": [{
+            "titulo": "bebidas 01",
+            "descripcion": "sin azucar",
+            "imagen": "assets/cafe4.jpg",
+            "precio": 15.12,
+            "estrellas": 4.7
+        }, {
+            "titulo": "bebidas 02",
+            "descripcion": "sin azucar",
+            "imagen": "assets/cafe5.jpg",
+            "precio": 26.12,
+            "estrellas": 3.7
+        }, {
+            "titulo": "bebidas 03",
+            "descripcion": "sin azucar",
+            "imagen": "assets/cafe1.jpg",
+            "precio": 14.12,
+            "estrellas": 3.7
+        }]
+    }, {
+        "tipo_categoria": "Expres",
+        "productos": [{
+            "titulo": "Expres 01",
+            "descripcion": "sin azucar",
+            "imagen": "assets/cafe3.jpg",
+            "precio": 45.12,
+            "estrellas": 7.7
+        }, {
+            "titulo": "Expres 02",
+            "descripcion": "sin azucar",
+            "imagen": "assets/cafe4.jpg",
+            "precio": 26.12,
+            "estrellas": 4.7
+        }, {
+            "titulo": "Expres 03",
+            "descripcion": "sin azucar",
+            "imagen": "assets/cafe2.jpg",
+            "precio": 34.12,
+            "estrellas": 5.7
+        }]
+    }]
+}

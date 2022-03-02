@@ -29,7 +29,7 @@ class EjemploAPage extends StatelessWidget {
                           child: Column(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
-                              Text(
+                              const Text(
                                 "Strawberry ",
                                 style: TextStyle(fontWeight: FontWeight.bold),
                               ),
@@ -46,6 +46,7 @@ class EjemploAPage extends StatelessWidget {
                                     MainAxisAlignment.spaceAround,
                                 children: [
                                   Row(
+                                    // ignore: prefer_const_literals_to_create_immutables
                                     children: [
                                       Icon(
                                         Icons.star,
