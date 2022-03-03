@@ -1,6 +1,6 @@
 // ignore_for_file: unused_local_variable, unnecessary_null_comparison
 import 'package:flutter/material.dart';
-import 'package:flutter_session2/page/retoA/controller/list_page_controller.dart';
+import 'package:flutter_session2/page/reto_primero/controller/list_page_controller.dart';
 import 'package:flutter_session2/util/icons_utils.dart';
 import 'package:get/get_state_manager/get_state_manager.dart';
 

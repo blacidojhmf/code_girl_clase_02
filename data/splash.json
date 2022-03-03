@@ -1,0 +1,15 @@
+{
+    "data": [{
+        "frase": "Café tan bueno, que lo vas amar  cuando lo pruebes",
+        "comentario": "El mejor grano, el tueste ma fino, \n el sabor más potente",
+        "imagen": "assets/coffee.png"
+    }, {
+        "frase": "Cafe para compartir con tus seres queridos",
+        "comentario": "El mejor grano, el tueste ma fino, \n el sabor más potente",
+        "imagen": "assets/cafe2.jpg"
+    }, {
+        "frase": "Relajate y disfruta del mejor cafe nacional",
+        "comentario": "El mejor grano, el tueste ma fino, \n el sabor más potente",
+        "imagen": "assets/cafe1.jpg"
+    }]
+}

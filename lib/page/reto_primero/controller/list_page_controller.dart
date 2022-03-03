@@ -1,6 +1,6 @@
 // ignore_for_file: unused_local_variable
 
-import 'package:flutter_session2/page/providers/list_page_provider.dart';
+import 'package:flutter_session2/page/reto_primero/providers/list_page_provider.dart';
 import 'package:get/get.dart';
 
 class ListPageController extends GetxController {
